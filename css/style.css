@@ -1,0 +1,51 @@
+.restaurant_title {
+    font-family: 'IM Fell Great Primer SC', serif;
+    font-size: 45px;
+    margin-top: 20px;
+    margin-left: 10px;
+}
+
+.horizontal_rule {
+    margin-top: 0;
+}
+
+.styled_button {
+    background-color: white;
+    border: none;
+    font-family: 'IM Fell Great Primer SC', serif; 
+}
+
+
+.styled_menu {
+    margin-top: 40px;
+    border: none;
+}
+
+.menu_title {
+    margin-top: 20px;
+    font-family: 'IM Fell Great Primer SC', serif; 
+    margin-bottom: 20px;
+}
+
+.menu_items {
+    list-style: none;
+}
+
+.food_images {
+    display:inline;
+}
+
+.food_titles {
+    font-family: 'IM Fell Great Primer SC', serif;
+}
+
+.category {
+    font-family: 'IM Fell Great Primer SC', serif;
+    margin-bottom: 30px;
+    font-size:50px;
+}
+
+.style_li{
+    margin-left:20px
+    display: flex;
+}
